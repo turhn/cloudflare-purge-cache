@@ -2,6 +2,8 @@
 
 CloudFlare API wrapper script for purging caches programmatically. It is very easy to integrate CI/CD servers.
 
+For a better solution [https://github.com/turhn/cloudflare-client](https://github.com/turhn/cloudflare-client)
+
 ## Basic Usage
 
 Set the environment variables.
